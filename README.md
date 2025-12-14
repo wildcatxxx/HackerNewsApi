@@ -17,7 +17,7 @@ This ASP.NET Core Web API retrieves the best `n` stories from the Hacker News AP
 
 1. **Navigate to the project directory:**
    ```bash
-   cd HackerNewsAPI
+   cd HackerNewsApi
    ```
 
 2. **Restore dependencies:**
