@@ -1,0 +1,66 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+**/bin/
+**/obj/
+*.pdb
+*.exe
+*.dll
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/
+.project.lock.json
+.nuget/
+.nuget/packages/
+
+# MSBuild generated files
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Publish / runtime
+publish/
+publish-output/
+out/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+coverage*.xml
+
+# Resharper / JetBrains
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files
+*.rsuser
+*.suo
+*.userprefs
+
+# Local app settings (may contain secrets)
+appsettings.Development.json
+secrets.json
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore compiled Java/C# temporary files
+*.class
+*.class.*
